@@ -1,10 +1,7 @@
 [![Support Palestine](https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg)](https://www.map.org.uk)
 # 📊 MNIST Digit Classification using Neural Network
 
-![MNIST-Digit-Classification](ipc-thi-giac-may-tinh.jpg)
-
-## Overview
-
+![MNIST-Digit-Classification](https://opendatascience.com/wp-content/uploads/2017/05/handwritten.jpg)
 > A simple Neural Network to classify handwritten digits from the MNIST dataset.
 
 This project demonstrates how to build and train a basic neural network using TensorFlow/Keras to recognize handwritten digits (0–9) from the famous **MNIST dataset**. It includes preprocessing, model building, training, evaluation, visualization of results, and a predictive system for custom digit images.
